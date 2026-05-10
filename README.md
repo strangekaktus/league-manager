@@ -11,7 +11,7 @@ A console-based football league manager built with Python and MySQL
 2. Run seed.sql to populate with test data
 3. Run triggers_procedures.sql to create the trigger and procedure
 4. Install the Python library: pip install mysql-connector-python
-5. Update the password in main.py to your MySQL root password
+5. Copy config.example.py to config.py and enter your MySQL password
 6. Run the app: python main.py
 
 ## ER Diagram
