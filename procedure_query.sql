@@ -1,3 +1,5 @@
+drop procedure if exists get_match_report;
+
 delimiter //
 create procedure get_match_report(in p_fixture_id int)
 begin
@@ -25,4 +27,4 @@ begin
 end //
 delimiter ;
 
-call get_match_report(1);
+call get_match_report(4);
