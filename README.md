@@ -1,5 +1,5 @@
 # league-manager
-A console-based football league manager built with Python and MySQL
+A console-based football league manager built with Python and MySQL, made for project in DV1663, BTH
 
 ## Requirements
 - Python 3.10+
