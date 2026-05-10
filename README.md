@@ -13,3 +13,6 @@ A console-based football league manager built with Python and MySQL
 4. Install the Python library: pip install mysql-connector-python
 5. Update the password in main.py to your MySQL root password
 6. Run the app: python main.py
+
+## ER Diagram
+![ER Diagram](er_graph_dv1663.png)
